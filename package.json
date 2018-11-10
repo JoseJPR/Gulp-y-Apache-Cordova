@@ -1,0 +1,14 @@
+{
+    "name": "gulp_apache_cordova",
+    "version": "0.0.1",
+    "description": "",
+    "author": "JoseJ_PR",
+    "license": "Apache",
+    "dependencies": {
+        "gulp": "3.9.1",
+        "gulp-htmlmin": "5.0.1",
+        "gulp-minify": "3.1.0",
+        "gulp-concat": "2.6.1",
+        "gulp-clean-css": "3.10.0"
+    }
+}
